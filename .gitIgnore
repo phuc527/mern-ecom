@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+/fe/node_modules
+/fe/.pnp
+/fe/.pnp.js
+
+# testing
+/fe/coverage
+
+# production
+/fe/build
+
+# misc
+/backend/config/config.env
+/fe/.DS_Store
+/fe/.env.local
+/fe/.env
+/fe/.env.development.local
+/fe/.env.test.local
+/fe/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
